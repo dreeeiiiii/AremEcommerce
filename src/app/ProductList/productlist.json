@@ -1,0 +1,143 @@
+
+[
+  {
+    "id": 1,
+    "name": "Business Card Printing",
+    "description": "High-quality business card printing on premium matte or glossy cardstock.",
+    "price": 12.99,
+    "imageUrl": "https://images.pexels.com/photos/6800928/pexels-photo-6800928.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 2,
+    "name": "Custom Mug Printing",
+    "description": "Personalized mugs with your own design or photo. Dishwasher and microwave safe.",
+    "price": 8.50,
+    "imageUrl": "https://images.pexels.com/photos/8341843/pexels-photo-8341843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": 3,
+    "name": "Tarpaulin Banner Printing",
+    "description": "Durable tarpaulin banners ideal for indoor and outdoor events. Full color, weather-resistant.",
+    "price": 25.00,
+    "imageUrl": "https://www.zeeprint.my/wp-content/uploads/2021/09/pvc-banner-zeeprint-01.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Flyer Printing",
+    "description": "Color flyers printed on glossy or matte paper. Various sizes available.",
+    "price": 18.75,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcGA8wqTAE3a5x7Cu4zWfuBw4w76GDukksg&s"
+  },
+  {
+    "id": 5,
+    "name": "Photo Mug",
+    "description": "Add your favorite photo to a high-quality ceramic mug. Great for gifts!",
+    "price": 9.99,
+    "imageUrl": "https://www.my-picture.co.uk/dynamicimage/product/landingpages/product1Img/85384/plp-mug-tileclassicmug-01-gen.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Poster Printing",
+    "description": "Large-format poster printing on high-quality paper. Ideal for promotions and events.",
+    "price": 15.00,
+    "imageUrl": "https://www.my-picture.co.uk/dynamicimage/product/landingpages/product1Img/85384/plp-mug-tileclassicmug-01-gen.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Brochure Printing",
+    "description": "Tri-fold brochures printed on glossy or matte paper. Perfect for marketing materials.",
+    "price": 20.00,
+    "imageUrl": "https://staticecp.uprinting.com/5028/530x530/Brochures_Marketing_Materials_A.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sticker Printing",
+    "description": "Custom stickers in various shapes and sizes. Waterproof and durable.",
+    "price": 5.00,
+    "imageUrl": "https://i.pinimg.com/736x/74/17/5e/74175e87b0f33466b99437b59a33803c.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Canvas Print",
+    "description": "High-quality canvas prints of your favorite photos. Ready to hang.",
+    "price": 50.00,
+    "imageUrl": "https://copycatjm.com/wp-content/uploads/2017/06/Canvas-Mockup-with-couple.jpg"
+  },
+  {
+    "id": 10,
+    "name": "T-shirt Printing",
+    "description": "Custom t-shirt printing with your design or logo. Various sizes and colors available.",
+    "price": 12.00,
+    "imageUrl": "https://diyprinting.shop/wp-content/uploads/2015/08/T-shirt-Printing-1.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Large Format Printing",
+    "description": "High-quality large-format printing for banners, posters, and signs.",
+    "price": 30.00,
+    "imageUrl": "https://www.frontsigns.com/wp-content/uploads/2020/07/solvet-inkjet-printing.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Acrylic Laser Cutting",
+    "description": "Precision laser cutting and engraving on acrylic materials.",
+    "price": 40.00,
+    "imageUrl": "https://www.epiloglaser.com/assets/img/laser-cut-engraved-acrylic-charms.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Vinyl Banner Printing",
+    "description": "Durable vinyl banners suitable for both indoor and outdoor use.",
+    "price": 35.00,
+    "imageUrl": "https://s2.48hourprint.com/photo-gallery/70/Banners-copy_1400x1400.jpg"
+  },
+  {
+    "id": 14,
+    "name": "ID Card Printing",
+    "description": "Custom ID cards with your design. Includes lanyard and holder.",
+    "price": 8.00,
+    "imageUrl": "https://www.swiftpro-printer.com/wp-content/uploads/2020/07/pvc-cards.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Calendar Printing",
+    "description": "Personalized calendars for businesses or personal use. Various formats available.",
+    "price": 18.00,
+    "imageUrl": "https://static1.colorfxweb.com/Products%20HI%20RES/Catalog_s/Calendar_s/Calendar.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Signage Printing & Fabrication",
+    "description": "Custom signage solutions including design, printing, and fabrication.",
+    "price": 100.00,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/6/CL/ON/CU/75133011/indoor-outdoor-printing-fabrication-service-500x500.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Flyer Distribution",
+    "description": "Professional flyer distribution services to targeted areas.",
+    "price": 50.00,
+    "imageUrl": "https://www.sbsprint.com/wp-content/uploads/2024/10/Testimonials-Flyer-Distribution-1-compressed-scaled.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Event Ticket Printing",
+    "description": "Custom event tickets with your design. Includes perforated stubs.",
+    "price": 10.00,
+    "imageUrl": "https://littlerockprinting.com/wp-content/uploads/2023/09/littlerock_blog_yourguidetocustomeventticketprinting2023_hero.webp"
+  },
+  {
+    "id": 19,
+    "name": "Menu Printing",
+    "description": "High-quality menu printing for restaurants and cafes. Laminated for durability.",
+    "price": 15.00,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yh9ko5Pd19BAbYdx7x9Kv9JFyIWEfLtDxA&s"
+  },
+  {
+    "id": 20,
+    "name": "Greeting Card Printing",
+    "description": " Custom greeting cards for all occasions. Full color, folded, and ready to send.",
+    "price": 3.50,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHelQCpmxZa6FJk5R7bfYLKkOk6hfc_qZjsQ&s"
+  }
+]
