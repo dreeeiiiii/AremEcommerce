@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "ceramic mugs",
+      "description": "Ceramic mugs are sturdy, reusable drinking vessels typically made from clay that is shaped, glazed, and fired in a kiln. They are commonly used for hot beverages like coffee, tea, or hot chocolate. Ceramic mugs come in a variety of sizes, shapes, and colors, often featuring custom prints, logos, or designs. Known for their heat retention and comfortable feel, they are popular both at home and in offices, and also make great personalized gifts or promotional items.",
+      "price": 12.99,
+      "imageUrl": "https://omceramic.com/cdn/shop/collections/IMG_0070x_401d6a08-26f2-4ddd-8c2a-ba3e5875e051.jpg?v=1667334132"
+    },
+    {
+      "id": 2,
+      "name": "coffee mugs",
+      "description": "Coffee mugs are sturdy, cylindrical cups designed for holding hot beverages like coffee, tea, or hot chocolate. They typically feature a handle for easy gripping and are made from materials such as ceramic, porcelain, glass, or stainless steel. Mugs usually have a larger capacity than standard teacups, making them ideal for casual, everyday use at home or in the office. They can come in various sizes, shapes, colors, and designs—often customized with logos, quotes, or images—making them popular as both practical items and personalized gifts.",
+      "price": 8.50,
+      "imageUrl": "hhttps://nestasia.in/cdn/shop/files/coffeecups_8_d3eac34e-7e27-44ad-a464-f750426f7936.jpg?v=1701657444&width=600"
+    },
+    {
+      "id": 3,
+      "name": "color changing mugs",
+      "description": "Color changing mugs, also known as magic mugs or heat-sensitive mugs, are novelty drinkware that change color or reveal hidden designs when filled with a hot liquid like coffee or tea. The effect is created using a special thermochromic coating that reacts to temperature changes. When the mug is cold, the design may be hidden or appear in one color, and as the mug heats up, the color shifts or a new image appears. These mugs are popular for gifts, personalized items, and promotional products due to their fun, surprising effect and interactive quality.",
+      "price": 25.00,
+      "imageUrl": "https://signzworld.co.uk/wp-content/uploads/2019/11/s-l10002.jpg"
+    },
+    {
+      "id": 4,
+      "name": "two tone accent mugs",
+      "description": "Two-tone accent mugs are ceramic mugs that feature two different colors — typically one for the exterior and another for the interior or handle. This design creates a stylish contrast that adds a pop of color and visual interest. The outer color is usually neutral or branded, while the inner color (or handle) serves as an accent, often in a brighter or complementary shade. These mugs are popular for both personal and promotional use, offering a balance of function and flair. They're great for showcasing logos, messages, or designs while standing out from standard single-color mugs.",
+      "price": 18.75,
+      "imageUrl": "https://i.fbcd.co/products/original/two-tone-black-accent-mug-mockup-2032a-dc2997ceb457e7a7aa3e581d9c93cde97c84c2aa701213945ee20d60096b70f8.jpg"   
+    },
+    {
+      "id": 5,
+      "name": "enamel mugs",
+      "description": "Enamel mugs are lightweight, durable drinking mugs made from metal—usually steel or iron—and coated with a layer of enamel, which is a smooth, glass-like finish. This coating gives the mug a shiny, colorful appearance and makes it resistant to rust and scratches. Enamel mugs are popular for camping, travel, and outdoor use due to their sturdiness and ability to retain heat. They often have a vintage or rustic charm, making them great for both functional use and decorative purposes. Enamel mugs can be customized with designs, logos, or colors, making them popular for promotional items or personalized gifts.",
+      "price": 9.99,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_m19pup8GPvylB6KYZn1Z0PKW7RpLCsuBRAcrrDYi42DKfub3msgBEMJelPCOdl6xAA&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "metallic mugs",
+      "description": "Metallic mugs are drinkware made from metal materials such as stainless steel, aluminum, or other alloys, often featuring a shiny or brushed metallic finish. They are durable, long-lasting, and resistant to breakage, making them ideal for both indoor and outdoor use. Metallic mugs can retain heat well, keeping beverages warm for longer periods. Many come with insulation or double-wall designs for added temperature control. Their sleek, modern look also makes them a popular choice for personalized gifts, branding, or promotional items.",
+      "price": 15.00,
+      "imageUrl": "https://i.etsystatic.com/20129712/r/il/f0b92e/2127928914/il_570xN.2127928914_lh9y.jpg"
+    },
+    {
+      "id": 7,
+      "name": "travel mugs",
+      "description": "Travel mugs are portable, insulated containers designed to keep beverages like coffee, tea, or water at a desired temperature while you're on the go. They typically feature a spill-resistant lid, a comfortable grip, and are made from materials such as stainless steel, plastic, or BPA-free materials. Travel mugs are ideal for commuters, travelers, and anyone who wants to enjoy their drinks hot or cold for extended periods. They come in various sizes and designs, offering both functionality and style for daily use. Many travel mugs are also designed to fit in car cup holders, making them convenient for use in vehicles. They can be customized with logos or designs, making them popular for promotional items or gifts.",
+      "price": 20.00,
+      "imageUrl": "https://www.cnet.com/a/img/resize/d9dd8cd9e17ecbd015e57e9610964ca819f0bb79/hub/2025/04/02/ca88dd58-4443-4578-b3a6-956af76fdfcf/screenshot-2025-04-02-at-1-01-10pm.png?auto=webp&width=1200"
+    },
+    {
+      "id": 8,
+      "name": "frosted glass mugs",
+      "description": "Frosted glass mugs are drinking mugs made from glass that has been chemically or sandblasted to create a semi-opaque, frosted appearance. This finish gives the mug a smooth, matte look that diffuses light, adding an elegant and modern touch. Frosted glass mugs are popular for both hot and cold beverages and are often used for personalized gifts, promotional items, or stylish kitchenware. The frosted surface also provides a great background for printed logos, designs, or text, making them ideal for custom branding or creative artwork..",
+      "price": 5.00,
+      "imageUrl": "https://jmprintsph.s3.ap-southeast-1.amazonaws.com/products/b4d86aa4-418f-45c5-94b2-16ada6c2ed9c.jpg"
+    },
+    {
+      "id": 9,
+      "name": "latte mugs",
+      "description": "Latte mugs are specially designed cups used for serving lattes and other espresso-based drinks. They are typically larger than standard coffee mugs, holding around 12 to 16 ounces of liquid, to accommodate both the espresso and the steamed milk. Latte mugs often have a wide mouth and a curved shape, which helps showcase latte art and enhances the drinking experience. They’re usually made from ceramic, porcelain, or glass, offering good insulation and a comfortable feel in the hand. Latte mugs combine function and style, making them a popular choice for both home baristas and coffee shops.",
+      "price": 50.00,
+      "imageUrl": "https://ttpotterydesigns.com/wp-content/uploads/2020/02/sierra-mountain-latte-mug-800x800.jpg"
+    },
+    {
+      "id": 10,
+      "name": "mason jar mugs",
+      "description": "Mason jar mugs are typically made from the same glass as traditional mason jars, featuring a handle attached to the side, making them easy to hold like a regular mug. They have a rustic, vintage look and are often used for serving drinks like iced tea, lemonade, coffee, or even cocktails. These mugs are popular for their charming, farmhouse-style aesthetic and are commonly used in casual settings, at parties, or as decorative items. Mason jar mugs can also be customized with lids and straws, making them a fun and versatile option for both practical use and unique drink presentation. They are often used for themed events, weddings, or as personalized gifts.",
+      "price": 12.00,
+      "imageUrl": "https://i.etsystatic.com/38197125/r/il/dcc9b8/4876326279/il_570xN.4876326279_847z.jpg"
+    }
+    
+  ]

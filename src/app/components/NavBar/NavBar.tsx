@@ -4,11 +4,15 @@ import { faMagnifyingGlass,faHeadset} from '@fortawesome/free-solid-svg-icons'
 import { faBars } from '@fortawesome/free-solid-svg-icons/faBars'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import React from 'react'
+import { useRouter } from 'next/navigation';
+import { routes } from '@/lib/router';
 
 
 
 
 const NavBar = () =>  {
+
+  const router = useRouter()
     return (
       <nav className="bg-stone-900 p-3 sticky top-0 border-b-1 border-b-stone-100 flex items-center justify-between">
         <div className='text-white grow-0'>
@@ -55,14 +59,14 @@ const NavBar = () =>  {
   
           <div className=''>
             <button className='bg-stone-900 border-1 border-white p-2 text-white text-sm rounded-2xl flex justify-center items-center px-4 hover:bg-stone-700 hover:text-amber-50 active:bg-stone-400 active:text-amber-50'
-            onClick={() => (window.location.href = "/CreateAccount")}>
+            onClick={() => router.push(routes.CreateAccount.path)}>
               Create Account
             </button>
           </div>
   
           <div className=''>
             <button className='bg-stone-900 border-1 border-white p-2 text-white text-sm rounded-2xl flex justify-center items-center px-4 hover:bg-stone-700 hover:text-amber-50 active:bg-stone-400 active:text-amber-50'
-            onClick={() => (window.location.href = "/SignIn")}>
+            onClick={() =>router.push(routes.SignIn.path)}>
               Sign In
             </button>
           </div>

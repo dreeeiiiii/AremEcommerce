@@ -1,6 +1,6 @@
 import React from 'react'
-import FrontCoverPage from './components/FrontCoverPage'
-import CardSection from './components/CardsSection'
+import FrontCoverPage from './components/FrontCoverPage/FrontCoverPage'
+import CardSection from './components/CardSection/CardsSection'
 
 
 function Page() {
