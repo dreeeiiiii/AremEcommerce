@@ -1,6 +1,6 @@
 import { motion, useInView } from 'framer-motion';
 import React, { useRef } from 'react';
-import Link from 'next/link';
+
 
 type Product = {
   id: number;
@@ -34,8 +34,6 @@ const CardLayoutItem: React.FC<ProductCard> = ({ products }) => {
           whileHover={{ scale: 1.05 }}
           transition={{ type: 'spring', stiffness: 300 }}
           >
-            <Link href={`/Product/${product.id}`} key={product.id}>
-
               <div className="bg-stone-100 p-4 rounded-2xl shadow-lg hover:bg-stone-300">
               <img
                 src={product.imageUrl}
@@ -45,7 +43,7 @@ const CardLayoutItem: React.FC<ProductCard> = ({ products }) => {
               <p className="text-2xl font-semibold">{product.name}</p>
               <p className="truncate">{product.description}</p>
               </div>
-            </Link>
+     
           </motion.div>
 
         
