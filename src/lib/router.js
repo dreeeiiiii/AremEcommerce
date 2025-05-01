@@ -1,3 +1,4 @@
+import path from "path";
 
 
 export const routes = {
@@ -13,4 +14,17 @@ export const routes = {
       path: '/CreateAccount',
       name: 'CreateAccount',
     },
+    Cart:{
+      path: '/Cart',
+      name: 'Cart',
+    },
+    Notification:{
+      path: '/Notification',
+      name: 'Notification',
+    },
+    Contact:{
+      path: '/Contact',
+      name: 'Contact',
+    }
+
   };
